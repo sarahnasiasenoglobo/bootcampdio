@@ -156,3 +156,5 @@ Adicionei aqui também slides que ele fez para apresentar a um tutor de artigos 
 
 <img width="4775" height="10133" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/00d00ee7-c81d-4880-b41d-6473398a63f6" />
 
+evidência de resposta no chat
+<img width="894" height="697" alt="image" src="https://github.com/user-attachments/assets/6e633059-4a3d-4cdd-b540-83876e6ddfbc" />
